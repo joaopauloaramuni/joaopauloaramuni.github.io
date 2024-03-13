@@ -294,6 +294,51 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/linkedin2.gif?raw=true"/> LinkedIn Recommendations</summary>
+<div>
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/R1.png?raw=true" alt="R1"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/R2.png?raw=true" alt="R2"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/R3.png?raw=true" alt="R3"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/R4.png?raw=true" alt="R4"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/R5.png?raw=true" alt="R5"/>
+</td>
+</tr>
+<tr>
+<td>
+<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/R6.png?raw=true" alt="R6"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+</table>
+</div>
+</details>
+</div>
 
 <div align="center">
 
