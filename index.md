@@ -60,21 +60,24 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -----
 
 <div>
-<div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/dev.gif?raw=true" width="340px" height="520px"/>
-</div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
 <div align="justify">
 <p> 
-- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, <br />Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
-- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de <br />Software e Ciência da Computação.<br />
-- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de<br /> squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
-- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução<br /> e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência<br /> da Computação para a primeira turma da escola. :man_teacher:<br />
-- :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a><br /> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
-- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação<br /> da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
-- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>.<br />(Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
+- :man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>professor</code> da Ciência da Computação, Sistemas de Informação e Análise e Desenvolvimento de Sistemas.<br />
+- :mortar_board: &nbsp; Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação.<br />
+- :necktie: &nbsp; Na <a href="https://in8.com.br/" target="_blank">IN8</a>, atuei como <code>Tech Manager</code>, responsável pela liderança de squads de devs de múltiplos projetos para o mercado de milhas aéreas. :airplane:<br />
+- :briefcase: &nbsp; Na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>, atuei como <code>Tech Lead</code> de Currículo, Liderança de Instrução e Especialista em Instrução de Tecnologia. Ministrei aulas de Ciência da Computação para a primeira turma da escola. :man_teacher:<br />
+- :man_teacher: &nbsp; Também fui professor de Arquitetura de Software na <a href="https://www.xpeducacao.com.br/" target="_blank">XP Educação</a> e de Ciência da Computação na <a href="http://www.fumec.br/" target="_blank">Universidade FUMEC</a>.<br />
+- :trophy: &nbsp; Fui o professor destaque do curso de Sistemas de Informação da <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a> no segundo semestre de 2023.<br />
+- :atom: &nbsp; Sou entusiasta da Linguagem C, veja alguns códigos que fiz <a href="https://github.com/joaopauloaramuni/c" target="_blank">aqui</a>. (Você já viu código recursivo em C em <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">uma linha</a>? :thinking:)<br />
 - :memo: &nbsp; Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
 - :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
@@ -85,6 +88,18 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 - :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
+</td>
+<td>
+<div>
+<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/dev.gif?raw=true" width="340px" height="520px"/>
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
 </div>
 
 -----
@@ -195,53 +210,75 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="13"></td>
+ <td align="center" colspan="8"></td>
 </tr> 
 <tr>
 <td>
-<a href="https://alamoti.net/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/alamoti.jpeg?raw=true"/></a>
+<a href="https://alamoti.net/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/alamoti.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.bb.com.br/site/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/bb.png?raw=true"/></a>
+<a href="https://brazil.vallourec.com/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/vsb.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/capgemini.png?raw=true"/></a>
+<a href="https://www.bb.com.br/site/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/bb.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/anp.jpeg?raw=true"/></a>
+<a href="https://www.capgemini.com/br-pt/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/capgemini.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://www.prosegur.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/prosegur.jpeg?raw=true"/></a>
+<a href="https://www.oi.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/oi.png?raw=true"/></a>
 </td>
 <td>
-<a href="https://in8.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/in8.jpeg?raw=true"/></a>
+<a href="https://www.gov.br/anp/pt-br" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/anp.jpeg?raw=true"/></a>
 </td>
 <td>
-<a href="https://hotmilhas.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/hotmilhas.jpeg?raw=true"/></a>
+<a href="https://www.prosegur.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/prosegur2.jpg?raw=true"/></a>
 </td>
 <td>
-<a href="https://123milhas.com/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/123milhas.png?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.betrybe.com/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/trybe.jpeg?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.xpeducacao.com.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/xpe.jpeg?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.fumec.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/fumec.jpeg?raw=true"/></a>
-</td>
-<td>
-<a href="https://newtonpaiva.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/newton.jpeg?raw=true"/></a>
-</td>
-<td>
-<a href="https://www.pucminas.br/" target="_blank"><img width="50" height="50" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/puc.jpeg?raw=true"/></a>
+<a href="https://in8.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/in8.jpeg?raw=true"/></a>
 </td>
 </tr>
 <tr>
- <td align="center" colspan="13"></td>
+ <td align="center" colspan="8"></td>
 </tr> 
 </table>
+
+<table>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://hotmilhas.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/hotmilhas.png?raw=true"/></a>
+</td>
+<td>
+<a href="https://123milhas.com/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/123milhas.png?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.betrybe.com/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/trybe.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.xpeducacao.com.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/xpe.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.fumec.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/fumec.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.linkedin.com/company/laisfumec/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/lais.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://newtonpaiva.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/newton.jpeg?raw=true"/></a>
+</td>
+<td>
+<a href="https://www.pucminas.br/" target="_blank"><img width="75" height="75" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/puc.jpeg?raw=true"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="8"></td>
+</tr> 
+</table>
+
+ 
 </div>
 
 </div>
@@ -311,40 +348,76 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+<div>
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/graphic.gif?raw=true"/>GitHub Stats:
 
-<div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+<td>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
 </div>
 
 -----
 
 <div>
+ 
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
 </details>
 </div>
-<div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
+</td>
+<td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
 </div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
-</div>
+
 <div>
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
 </details>
-</div>
 </div>
 
 -----
@@ -382,7 +455,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni.github.io?logo=git"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
@@ -537,3 +610,4 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -->
 
 <!-- Obrigado pela visita! -->
+
