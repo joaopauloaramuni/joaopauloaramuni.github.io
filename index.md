@@ -614,21 +614,37 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 -----
 
 <div>
-<table align="center">
+<table align="right">
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/aramunilogo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/aramunilogo.png?raw=true" width="75px" height="75px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 03/07/2024
+| Última atualização: 05/07/2024
 </td>
 </tr>
 <tr>
  <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+<div>
+<table>
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-de-Software.aspx" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/engsoft.png?raw=true" width="450px" height="75px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1"></td>
 </tr> 
 </table>
 </div>
@@ -642,4 +658,3 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
 
 <!-- Obrigado pela visita! -->
-
