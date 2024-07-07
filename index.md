@@ -685,6 +685,24 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
+<div>
+
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/calendar.gif?raw=true"/>&nbsp;Outros eventos
+</summary>
+<br />
+<div align="center">
+<a href="https://sudeste.python.org.br/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/pythonsudeste.svg?raw=true" width="700"/>
+</a>
+<a href="https://www.awswomencommunitybrasil.com/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/awsomewomensummit.png?raw=true" width="700"/>
+</a>
+</div>
+</details>
+
+</div>
+
 -----
 
 <div>
