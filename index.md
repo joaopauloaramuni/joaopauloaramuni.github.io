@@ -656,6 +656,10 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/star.gif?raw=true"/>&nbsp;Stargazers e Forkers:
+
 <div align="center">
 <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/stargazers">
   <img src="https://reporoster.com/stars/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
@@ -663,6 +667,22 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/network/members">
   <img src="https://reporoster.com/forks/dark/joaopauloaramuni/joaopauloaramuni" width="800"/>
 </a>
+</div>
+
+</div>
+
+-----
+
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/skills.gif?raw=true"/>&nbsp;Hackathon PUC Minas:
+
+<div align="center">
+<a href="https://proex.pucminas.br/hackathon/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/hackathon.jpeg?raw=true"/>
+</a>
+</div>
+
 </div>
 
 -----
