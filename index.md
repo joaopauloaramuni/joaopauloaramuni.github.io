@@ -675,6 +675,20 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/skills.gif?raw=true"/>&nbsp;Cursos de Pós em Tecnologias Digitais PUC Minas:
+
+<div align="center">
+<a href="https://icei.pucminas.br/latosensu/">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/banner-pos-puc-minas.jpg?raw=true"/>
+</a>
+</div>
+
+</div>
+
+-----
+
+<div>
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/hacker.gif?raw=true"/>&nbsp;Hackathon PUC Minas:
 
 <div align="center">
