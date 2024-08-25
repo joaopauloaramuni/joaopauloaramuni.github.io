@@ -651,6 +651,22 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 <div>
+<table align="right">
+<tr>
+ <td align="center" colspan="1"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://www.vestecw.com.br/buscar?q=engenharia+de+software" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/vestecw.png?raw=true" width="300px" height="75px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="1">:shirt: Compre a camisa do seu curso <a href="https://www.vestecw.com.br/buscar?q=engenharia+de+software" target="_blank">aqui</a>.</td>
+</tr> 
+</table>
+</div>
+
+<div>
 <table>
 <tr>
  <td align="center" colspan="2"></td>
@@ -661,11 +677,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 24/08/2024
+| Última atualização: 25/08/2024
 </td>
 </tr>
 <tr>
- <td align="center" colspan="2"></td>
+ <td align="center" colspan="2"><a href="https://github.com/joaopauloaramuni" target="_blank">:octocat: https://github.com/joaopauloaramuni</a></td>
 </tr> 
 </table>
 </div>
