@@ -443,6 +443,25 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 <tr>
 <td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </td>
@@ -451,6 +470,17 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </td>
 <td>
 <img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Repo" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopauloaramuni&repo=joaopauloaramuni&theme=dark"/>
 </td>
 </tr>
 <tr>
