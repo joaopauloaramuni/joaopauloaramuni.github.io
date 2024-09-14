@@ -1,6 +1,6 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
------
+----- 
 
 <div>
 
@@ -12,7 +12,7 @@
  <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/aramuni-aeds1.png?raw=true"/></a></td>
  <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/aramuni-devlabs.png?raw=true"/></a></td>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/aramuni-spring.png?raw=true"/></a></td>
-</tr> 
+</tr>
 <tr>
  <td align="center">:movie_camera: <a href="https://tinyurl.com/equipe-aeds1" target="_blank">Equipe AEDS1 (Gravações)</a></td>
  <td align="center">:movie_camera: <a href="https://tinyurl.com/equipe-devlabs" target="_blank">Equipe DevLabs (Gravações)</a></td>
@@ -493,7 +493,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/graphic.gif?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 <div align="center">
@@ -855,11 +855,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/google2.gif?raw=true"/>&nbsp;DevFest - GDG - PUC Minas - Unidade Praça da Liberdade:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/google2.gif?raw=true"/>&nbsp;DevFest - GDG - PUC Minas - Unidade Praça da Liberdade:
 
 <div align="center">
 <a href="https://www.sympla.com.br/evento/devfest-belo-horizonte/2586443">
-  <img width="700px" height="367px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/devfest.png?raw=true"/>
+  <img width="700px" height="367px" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/devfest.png?raw=true"/>
 </a>
 </div>
 
@@ -873,19 +873,22 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <br />
 <div align="center">
 <a href="https://2024.pythonbrasil.org.br/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/pythonbr.png?raw=true" width="700"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/pythonbr.png?raw=true" width="700px"/>
 </a>
 <a href="https://thedevconf.com/tdc/2024/index.html">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/tdc.jpg?raw=true" width="700"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/tdc.jpg?raw=true" width="700px"/>
+</a>
+<a href="https://codecon.dev/summit">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/codecon.png?raw=true" width="700px"/>
 </a>
 <a href="https://devopsdays.org/events/2024-rio-de-janeiro/welcome/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/devopsdays.png?raw=true" width="700"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/devopsdays.png?raw=true" width="700px"/>
 </a>
 <a href="https://sudeste.python.org.br/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/pythonsudeste.svg?raw=true" width="700"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/pythonsudeste.svg?raw=true" width="700px"/>
 </a>
 <a href="https://www.awswomencommunitybrasil.com/">
-  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/awsomewomensummit.png?raw=true" width="700"/>
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/awsomewomensummit.png?raw=true" width="700px"/>
 </a>
 </div>
 </details>
@@ -901,3 +904,5 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
 
 <!-- Obrigado pela visita! -->
+
+
