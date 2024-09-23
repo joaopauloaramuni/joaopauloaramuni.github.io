@@ -837,6 +837,20 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
+:octocat: &nbsp;GitHub Student Developer Pack:
+
+<div align="center">
+<a href="https://education.github.com/pack">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/GSDP.png?raw=true"/>
+</a>
+</div>
+
+</div>
+
+-----
+
+<div>
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/skills.gif?raw=true"/>&nbsp;Cursos de Pós em Tecnologias Digitais PUC Minas:
 
 <div align="center">
