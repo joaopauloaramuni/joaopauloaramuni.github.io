@@ -407,7 +407,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
  <td align="center">Parceria Universidade Fumec e<br />Prefeitura de Belo Horizonte:</td>
  <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
-  <td align="center">Parceria PUC Minas e<br />AWS Academy:</td>
+  <td align="center">Revista SprinTi - PUC Minas:</td>
 </tr> 
 <tr>
  <td align="center">
@@ -417,11 +417,11 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://blog.newtonpaiva.br/noticias/pelo-segundo-ano-consecutivo-newton-oferta-disciplinas-eletivas-para-alunos-do-ensino-medio-do-colegio-santa-doroteia/" target="_blank"><img width="200" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/santadoroteia.png?raw=true"/></a>
 </td>
 <td align="center">
-<a href="https://icei.pucminas.br/index.php/parcerias" target="_blank"><img width="210" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/awsacademy.png?raw=true"/></a>
+<a href="https://sprinti.pucminas.br/" target="_blank"><img width="210" height="200" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/sprinti.jpeg?raw=true"/></a>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3">:man_teacher: Parcerias e Projetos de Extensão.</td>
+<td align="center" colspan="3">:man_teacher: Projetos de Extensão, Parcerias e Trabalhos Interdisciplinares.</td>
 </tr>
 </table>
 
