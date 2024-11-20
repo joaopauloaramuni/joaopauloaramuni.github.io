@@ -980,6 +980,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 -----
+
+<div align="center">
+ <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/header_aes.jpg?raw=true"/>
+</div>
+
+-----
+
 <!--
 
 :watch: Horários 1° Sem 2025:
