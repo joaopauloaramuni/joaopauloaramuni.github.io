@@ -408,7 +408,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <tr>
  <td align="center">Parceria Universidade Fumec e<br />Prefeitura de Belo Horizonte:</td>
  <td align="center">Parceria Newton Paiva e<br />Colégio Santa Dorotéia:</td>
-  <td align="center">Revista SprinTi - PUC Minas:</td>
+ <td align="center">Revista SprinTi - PUC Minas:</td>
 </tr> 
 <tr>
  <td align="center">
@@ -436,10 +436,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/graphic.gif?raw=true"/>GitHub Stats:
-
-<div>
-
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
@@ -513,16 +509,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 <div>
-
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/graphic.gif?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 <div align="center">
-
 <table>
 <tr>
- <td align="center" colspan="2">GitHub Metrics</td>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
 </tr>
 <tr>
 <td>
@@ -556,10 +550,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
  <td align="center" colspan="2"></td>
 </tr> 
 </table>
-
 </div>
 </details>
-
 </div>
 
 -----
@@ -654,7 +646,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
 </div>
 
 -----
@@ -1011,4 +1003,3 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
 
 <!-- Obrigado pela visita! -->
-
