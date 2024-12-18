@@ -1,5 +1,5 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
-
+ 
 ----- 
 
 <div>
@@ -551,13 +551,25 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr> 
 </table>
 </div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+</tr>
+<tr>
+ <td align="center">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+ </td>
+</tr>
+</table>
+</div>
+
 </details>
 </div>
 
 -----
 
-<div>
- 
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
