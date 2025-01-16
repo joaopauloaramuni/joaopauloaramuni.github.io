@@ -2,7 +2,7 @@
  
 ----- 
 
-Teste3
+Teste4
 
 <div>
 
@@ -517,6 +517,21 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
+
+
+<div align="center">
+<table>
+<tr>
+ <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+</tr>
+<tr>
+ <td align="center">
+  <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+ </td>
+</tr>
+</table>
+</div>
+
 
 
 </details>
