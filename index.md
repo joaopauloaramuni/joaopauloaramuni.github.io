@@ -2,7 +2,7 @@
  
 ----- 
 
-Teste2
+Teste3
 
 <div>
 
@@ -509,6 +509,27 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 </div>
+
+
+
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais
+</summary>
+<br />
+
+
+</details>
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
