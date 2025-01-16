@@ -2,8 +2,6 @@
  
 ----- 
 
-Teste4
-
 <div>
 
 <table>
@@ -510,14 +508,54 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 </div>
 
-
-
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>&nbsp;Veja mais
 </summary>
 <br />
 
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.classic.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.terminal.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
 
 <div align="center">
 <table>
@@ -532,21 +570,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </table>
 </div>
 
-
-
 </details>
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 -----
 
