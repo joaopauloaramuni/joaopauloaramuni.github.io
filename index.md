@@ -1,4 +1,4 @@
-<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
+f<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
 -----
 
@@ -973,6 +973,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
+<!--
+
 <div>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/hacker.gif?raw=true"/>&nbsp;Hackathon PUC Minas:
@@ -1016,6 +1018,9 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni.github.io/blob/main/image/awsomewomensummit.png?raw=true" width="700px"/>
 </a>
 </div>
+
+-->
+
 </details>
 
 </div>
