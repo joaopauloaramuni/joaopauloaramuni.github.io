@@ -46,7 +46,7 @@ Quando você usa o GitHub Pages para hospedar imagens:
 
 ---
 
-## Documentação e Links Úteis
+## Documentação e links úteis
 
 ### Documentação oficial
 - [GitHub Pages - Documentação](https://docs.github.com/pt/pages)
@@ -58,6 +58,10 @@ Quando você usa o GitHub Pages para hospedar imagens:
 - [Jekyll - Gerador de sites estáticos](https://jekyllrb.com/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [Exemplo de repositório com GitHub Pages](https://github.com/daattali/beautiful-jekyll)
+
+### Exemplos de uso do GitHub Pages:
+- [Comunidade Python-MG](https://pythonmg.github.io/)
+- [Repositório com o conteúdo das disciplinas GPP e MDS do curso Engenharia de Software da Universidade de Brasília](https://fga-eps-mds.github.io/A-Disciplina-MDS-EPS/)
 
 ---
 
