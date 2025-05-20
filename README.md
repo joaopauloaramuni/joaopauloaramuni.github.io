@@ -6,7 +6,7 @@
 
 # Repo GitHub Pages
 
-## O que é o GitHub Pages?
+## O que é o GitHub Pages? :octocat:
 
 O **GitHub Pages** é um serviço gratuito oferecido pelo GitHub que permite que você hospede sites diretamente de um repositório. É amplamente utilizado para criar **portfólios, blogs, páginas de projetos** ou documentações de forma simples e integrada ao fluxo de versionamento.
 
@@ -15,6 +15,20 @@ Os sites do GitHub Pages podem ser gerados a partir de arquivos HTML estáticos 
 - Endereço típico: `https://<usuário>.github.io/<repositório>/`
 - Pode ser ativado nas configurações do repositório (Settings > Pages)
 - Pode usar domínio personalizado
+
+## 🧑‍💻 Por que usar o GitHub Pages para criar seu portfólio?
+
+O **GitHub Pages** é uma excelente opção para desenvolvedores que desejam criar um site de currículo ou portfólio técnico, porque:
+
+- ✅ É gratuito e fácil de configurar
+- 🔗 Se integra diretamente com seu repositório GitHub
+- 🧾 Permite publicar HTML, CSS e JS sem precisar de um servidor
+- 🌐 Gera uma URL estável e profissional: `https://seunome.github.io/`
+- 🖼️ Pode hospedar imagens, projetos, e exemplos de código
+
+Você pode construir sua página manualmente com HTML/CSS ou usar templates prontos com **Jekyll**.
+
+É uma forma prática de apresentar seus projetos, contatos e experiência diretamente a partir da plataforma onde você já colabora com código.
 
 ---
 
@@ -43,6 +57,22 @@ Quando você usa o GitHub Pages para hospedar imagens:
 ```markdown
 ![Descrição da imagem](https://<usuário>.github.io/<repositório>/images/nome-da-imagem.png)
 ```
+
+## 📦 O que é uma CDN?
+
+CDN (**Content Delivery Network**) é uma rede de servidores distribuídos globalmente que entrega conteúdos da web de forma rápida e eficiente.
+
+Quando você acessa um site ou arquivo hospedado em uma CDN, a resposta vem do servidor mais próximo da sua localização, garantindo menor latência, maior velocidade de carregamento e mais confiabilidade.
+
+### ✅ Vantagens:
+
+- 🚀 Carregamento mais rápido de arquivos estáticos (imagens, CSS, JS etc.)
+- 🌍 Melhor desempenho global
+- 📉 Redução de carga no servidor principal
+- 🔐 Mais segurança contra ataques como DDoS
+- 📦 Otimização de cache e entrega de conteúdo
+
+O GitHub Pages usa uma CDN para distribuir os arquivos dos seus sites, o que melhora a performance significativamente — especialmente para imagens e recursos estáticos.
 
 ---
 
