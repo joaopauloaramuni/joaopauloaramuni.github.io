@@ -110,6 +110,62 @@ meu-site/
 
 ---
 
+## 🌐 Usando um domínio personalizado com GitHub Pages
+
+Este repositório está configurado para ser publicado via **GitHub Pages** com um **domínio personalizado** usando um arquivo `CNAME`.
+
+---
+
+### 📄 O que é o arquivo `CNAME`
+
+O arquivo `CNAME` é um arquivo de texto simples que contém apenas o nome de domínio personalizado que você deseja usar com seu site do GitHub Pages.
+
+#### 📌 Exemplo de conteúdo do arquivo `CNAME`:
+
+```
+www.exemplo.com
+```
+
+---
+
+### 📁 Onde colocar o arquivo `CNAME`
+
+O arquivo deve estar na **raiz do repositório** que está configurado para ser servido pelo GitHub Pages.
+
+### 🛠️ Como configurar seu domínio personalizado
+
+1. Crie um arquivo chamado `CNAME` (sem extensão) na raiz do seu repositório.
+2. Insira seu domínio personalizado no arquivo (por exemplo, `www.exemplo.com`).
+3. Salve e envie o arquivo para o GitHub.
+4. No painel do seu provedor de domínio (como Registro.br, GoDaddy, Cloudflare etc.), adicione um registro **CNAME** apontando `www` para `seunome.github.io`.
+
+### 🔒 HTTPS gratuito
+
+O GitHub Pages oferece **HTTPS gratuito** com Let's Encrypt.
+
+Certifique-se de marcar a opção **"Enforce HTTPS"** nas configurações do GitHub Pages após o domínio ser configurado corretamente.
+
+### 🧪 Verificando
+
+Após a propagação do DNS (pode levar algumas horas), acesse seu domínio personalizado para verificar se ele redireciona corretamente para seu site hospedado no GitHub Pages.
+
+### ✅ Exemplo
+
+- Repositório: `https://github.com/usuario/portfolio`
+- Site no GitHub Pages: `https://usuario.github.io/portfolio`
+- Domínio personalizado: `www.seusite.com`
+- Arquivo `CNAME`:
+  ```
+  www.seusite.com
+  ```
+
+- Registro DNS:
+  | Tipo  | Nome | Valor                 |
+  |-------|------|------------------------|
+  | CNAME | www  | usuario.github.io     |
+
+---
+
 ## 🧪 Faça o teste
 
 O GitHub Pages é uma solução prática, gratuita e poderosa para quem deseja criar um site estático com facilidade. E quando usado corretamente, pode inclusive funcionar como um **CDN gratuito para imagens e outros recursos estáticos**.
