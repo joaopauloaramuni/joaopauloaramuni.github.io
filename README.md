@@ -6,7 +6,7 @@
 
 # Repo GitHub Pages
 
-## O que é o GitHub Pages? :octocat:
+## :octocat: O que é o GitHub Pages?
 
 O **GitHub Pages** é um serviço gratuito oferecido pelo GitHub que permite que você hospede sites diretamente de um repositório. É amplamente utilizado para criar **portfólios, blogs, páginas de projetos** ou documentações de forma simples e integrada ao fluxo de versionamento.
 
