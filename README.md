@@ -32,9 +32,9 @@ Você pode construir sua página manualmente com HTML/CSS ou usar templates pron
 
 ---
 
-## Renderização de imagens no GitHub
+## 🖼️ Renderização de imagens no GitHub
 
-### Como imagens são tratadas em repositórios comuns
+### 📁 Como imagens são tratadas em repositórios comuns
 
 Ao armazenar imagens diretamente em um repositório (por exemplo, dentro da pasta `/images`), o GitHub exibe os arquivos de imagem com uma URL voltada para **visualização e controle de versão**, e não para **uso público direto**. Isso significa que:
 
@@ -42,7 +42,7 @@ Ao armazenar imagens diretamente em um repositório (por exemplo, dentro da past
 - Elas podem ser instáveis e mudarem a cada push ou alteração de commit.
 - Não são otimizadas para uso em sites públicos (headers, cache, CDN).
 
-### Por que hospedar imagens no GitHub Pages?
+### 🌐 Por que hospedar imagens no GitHub Pages?
 
 Quando você usa o GitHub Pages para hospedar imagens:
 
@@ -76,26 +76,26 @@ O GitHub Pages usa uma CDN para distribuir os arquivos dos seus sites, o que mel
 
 ---
 
-## Documentação e links úteis
+## 📚 Documentação e links úteis
 
-### Documentação oficial
+### 🧾 Documentação oficial
 - [GitHub Pages - Documentação](https://docs.github.com/pt/pages)
 - [Configurar um site com Jekyll](https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll)
 - [GitHub Pages + Domínio personalizado](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
-### Tutoriais e recursos extras
+### 🛠️ Tutoriais e recursos extras
 - [Guia Completo do GitHub Pages (em inglês)](https://pages.github.com/)
 - [Jekyll - Gerador de sites estáticos](https://jekyllrb.com/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [Exemplo de repositório com GitHub Pages](https://github.com/daattali/beautiful-jekyll)
 
-### Exemplos de uso do GitHub Pages:
+### 🌟 Exemplos de uso do GitHub Pages:
 - [Comunidade Python-MG](https://pythonmg.github.io/)
 - [Repositório com o conteúdo das disciplinas GPP e MDS do curso Engenharia de Software da Universidade de Brasília](https://fga-eps-mds.github.io/A-Disciplina-MDS-EPS/)
 
 ---
 
-## Exemplo de estrutura de diretório
+## 🗂️ Exemplo de estrutura de diretório
 
 ```
 meu-site/
@@ -110,7 +110,7 @@ meu-site/
 
 ---
 
-## Faça o teste
+## 🧪 Faça o teste
 
 O GitHub Pages é uma solução prática, gratuita e poderosa para quem deseja criar um site estático com facilidade. E quando usado corretamente, pode inclusive funcionar como um **CDN gratuito para imagens e outros recursos estáticos**.
 
