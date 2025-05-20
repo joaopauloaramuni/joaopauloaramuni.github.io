@@ -1,6 +1,6 @@
 <!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
 
------
+----- 
 
 <div>
 
@@ -524,7 +524,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </tr>
 <tr>
  <td align="center" colspan="3"></td>
-</tr> 
+</tr>
 </table>
 
 <table>
@@ -955,8 +955,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 </div>
 
-<!--
-
 -----
 
 <div>
@@ -973,11 +971,13 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div align="center">
 <a href="https://2025.sudeste.python.org.br/">
-  <img width="700px" height="367px" src="https://joaopauloaramuni.github.io/image/pythonsudeste2.png?raw=true"/>
+  <img alt="pythonsudeste" src="https://joaopauloaramuni.github.io/image/pythonsudeste2.png?raw=true"/>
 </a>
 </div>
 
 </div>
+
+<!--
 
 <div>
 
@@ -1002,7 +1002,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 </div>
- 
+
 <a href="https://2024.pythonbrasil.org.br/">
   <img src="https://joaopauloaramuni.github.io/image/pythonbr.png?raw=true" width="700px"/>
 </a>
@@ -1021,13 +1021,14 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <a href="https://www.awswomencommunitybrasil.com/">
   <img src="https://joaopauloaramuni.github.io/image/awsomewomensummit.png?raw=true" width="700px"/>
 </a>
+
+-->
+
 </div>
 
 </details>
 
 </div>
-
--->
 
 -----
 
@@ -1062,7 +1063,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 | ${\color{peachpuff}08:50-10:30}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> |--|--|--|--|
 | ${\color{peachpuff}10:40-12:20}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvmento de Software</a> |--| ${\color{olive}(LOURDES)}$ <a href="https://calendly.com/aramuni/" target="_blank">ORIENTAÇÃO TCCII</a> | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{olive}(LOURDES)}$ <a href="https://calendly.com/aramuni/" target="_blank">ORIENTAÇÃO TCCII</a>|
 | ${\color{peachpuff}17:00-18:00}$ |--| ${\color{cyan}OFICINAS}$|${\color{olive}(LOURDES)}$ <a href="https://calendly.com/aramuni/" target="_blank">ORIENTAÇÃO TCCII</a>|${\color{cyan}OFICINAS}$|${\color{cyan}OFICINAS}$|
-| ${\color{peachpuff}18:00-19:00}$ | ${\color{coral}REUNIÃO-AES/PM}$|${\color{cyan}OFICINAS}$| ${\color{olive}(LOURDES)}$ <a href="https://calendly.com/aramuni/" target="_blank">ORIENTAÇÃO TCCII</a>|${\color{cyan}OFICINAS}$|${\color{coral}REUNIÃO-AES/CG}$|
+| ${\color{peachpuff}18:00-19:00}$ | ${\color{coral}TEAMS-AES/CTOs}$|${\color{cyan}OFICINAS}$| ${\color{olive}(LOURDES)}$ <a href="https://calendly.com/aramuni/" target="_blank">ORIENTAÇÃO TCCII</a>|${\color{cyan}OFICINAS}$|${\color{coral}TEAMS-AES/TLs}$|
 | ${\color{peachpuff}19:00-20:40}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/trabalho-interdisciplinar-aplicacoes-para-cenarios-reais" target="_blank">TIS3 - Aplicações para cenários reais</a> | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos" target="_blank">Fundamentos de Projeto e Análise de Algoritmos</a> |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> G2 |
 | ${\color{peachpuff}20:50-22:30}$ | ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/projeto-de-software" target="_blank">Projeto de Software</a> | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-experimentacao-de-software" target="_blank">Laboratório de Experimentação de Software</a> G1 |--| ${\color{violet}(COREU)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software" target="_blank">Laboratório de Desenvolvimento de Software</a> G1 | ${\color{olive}(LOURDES)}$ <a href="https://github.com/joaopauloaramuni/laboratorio-de-experimentacao-de-software" target="_blank">Laboratório de Experimentação de Software</a> G2 |
 
