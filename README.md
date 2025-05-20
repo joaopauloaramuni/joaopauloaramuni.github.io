@@ -1,6 +1,6 @@
 -----
 
-<img alt="githubpages" src="https://joaopauloaramuni.github.io/image/githubpages.png?raw=true"/>
+<img alt="githubpages" src="https://joaopauloaramuni.github.io/image/githubpages2.png?raw=true"/>
 
 -----
 
