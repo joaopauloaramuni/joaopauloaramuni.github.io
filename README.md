@@ -35,7 +35,7 @@ Quando você usa o GitHub Pages para hospedar imagens:
 - As imagens são servidas como **conteúdo estático puro**, ideal para sites.
 - Elas têm **URLs limpas e permanentes**, como:  
   `https://<usuário>.github.io/<repositório>/images/foto.png`
-- São automaticamente servidas via **CDN do GitHub**, com melhor desempenho.
+- São automaticamente servidas via **CDN do GitHub**, (Content Delivery Network - ou Rede de Distribuição de Conteúdo) com melhor desempenho.
 - Isso evita problemas de links quebrados ou bloqueios por CORS.
 
 📌 **Dica**: Crie uma pasta chamada `assets` ou `images` e coloque suas imagens lá. No HTML/Markdown, use:
