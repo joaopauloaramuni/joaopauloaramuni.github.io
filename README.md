@@ -1,8 +1,3 @@
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/22lih5eniohc7dawfxohlo7wy)
-</div>
-
 -----
 
 <img alt="githubpages" src="https://joaopauloaramuni.github.io/image/githubpages2.png?raw=true"/>
