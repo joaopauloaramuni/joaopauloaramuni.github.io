@@ -97,7 +97,8 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade.<br/>
+Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:
 </div>
 
 -----
@@ -903,7 +904,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
              </td>
              <td>
                | Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2025 Aramuni</a><br />
-               | Última atualização: 22/06/2025
+               | Última atualização: 12/07/2025
              </td>
            </tr>
            <tr>
@@ -935,6 +936,37 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
      </td>
    </tr>
  </table>
+</div>
+
+-----
+
+ <div>
+  <table>
+    <tr>
+      <td align="center" colspan="2"></td>
+    </tr> 
+    <tr>
+      <td>
+        <a href="https://stars.github.com/nominate/" target="_blank">
+          <img src="https://joaopauloaramuni.github.io/image/github-stars-logo.png?raw=true" width="75px" height="75px"/>
+        </a>
+      </td>
+      <td>
+        <div>
+          <p>⭐ Nominate a Star:</p>
+          <p>💡 Ajude a reconhecer meu trabalho open source!<br />
+          🚀 Se você gosta dos meus projetos de código aberto, considere me indicar para o programa <b>GitHub Stars</b>!<br />
+          🌐 O programa destaca devs que contribuem ativamente com a comunidade open source no GitHub.<br />
+          📈 Somando os repositórios, já compartilhei mais de <b>250 mil linhas de código</b> com a comunidade.</p>
+          <p> 🔗 <b>Indique aqui:</b> <a href="https://stars.github.com/nominate/" target="_blank">https://stars.github.com/nominate/</a><br /></p>
+          🌟 Muito obrigado pelo apoio! 🙌
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"></td>
+    </tr> 
+  </table>
 </div>
 
 -----
