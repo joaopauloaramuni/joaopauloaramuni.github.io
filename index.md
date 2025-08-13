@@ -4,9 +4,6 @@
 
 <table>
 <tr>
- <td align="center"></td>
-</tr>
-<tr>
  <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/aramuni-oficinas-2.png?raw=true"/></td>
 </tr>
 <tr>
@@ -21,9 +18,6 @@
 <div>
 
 <table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr>
 <tr>
  <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot-3.svg?raw=true"/></a></td>
  <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs-3.svg?raw=true"/></a></td>
