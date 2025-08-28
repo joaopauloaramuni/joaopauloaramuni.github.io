@@ -6,6 +6,8 @@
 
 # Repo GitHub Pages
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge&color=007ec6) 
+
 ## :octocat: O que é o GitHub Pages?
 
 O **GitHub Pages** é um serviço gratuito oferecido pelo GitHub que permite que você hospede sites diretamente de um repositório. É amplamente utilizado para criar **portfólios, blogs, páginas de projetos** ou documentações de forma simples e integrada ao fluxo de versionamento.
