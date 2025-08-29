@@ -1,8 +1,10 @@
+<!--- Olá, esse é meu readme, fique à vontade para utilizá-lo como quiser! --> 
+
 <div>
 
 <table>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas3.svg?raw=true"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas3.svg"/></td>
 </tr>
 <tr>
  <td align="center">:computer: Oficinas semanais online de desenvolvimento de software</td>
