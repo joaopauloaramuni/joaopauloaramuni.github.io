@@ -6,7 +6,7 @@
 
 # Repo GitHub Pages
 
-![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge&color=007ec6) 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge&color=007ec6) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/joaopauloaramuni.github.io?style=for-the-badge)  
 
 ## :octocat: O que é o GitHub Pages?
 
