@@ -1111,8 +1111,22 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 📅 DevFest 2025 - GDG - PUC Minas - Unidade Lourdes:
 
 <div align="center">
-<a href="https://www.instagram.com/p/DMFmRNYOryz/">
+<a href="https://www.sympla.com.br/produtor/gdgbh">
   <img height="675px" alt="devfest" src="https://joaopauloaramuni.github.io/image/devfest2.jpeg?raw=true"/>
+</a>
+</div>
+
+</div>
+
+<br />
+
+<div>
+
+🐍 Python Brasil 2025 - São Paulo:
+
+<div align="center">
+<a href="https://2025.pythonbrasil.org.br/">
+  <img src="https://joaopauloaramuni.github.io/image/pythonbrasil.png?raw=true"/>
 </a>
 </div>
 
