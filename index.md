@@ -4,7 +4,7 @@
 
 <table>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas4.svg?v=1&cb=1"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas4.svg?v=2&cb=1"/></td>
 </tr>
 <tr>
  <td align="center">:computer: Oficinas semanais online de desenvolvimento de software</td>
@@ -24,9 +24,9 @@
  <td align="center">Toda sexta-feira</td>
 </tr>
 <tr>
- <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg?v=2&cb=3"/></a></td>
- <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot3.svg?v=4&cb=2"/></a></td>
- <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds-4.svg?v=4&cb=4"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg?v=4&cb=3"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot3.svg?v=8&cb=4"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds-4.svg?v=5&cb=4"/></a></td>
 </tr>
 <tr>
  <td align="center">🔗 <a href="https://tinyurl.com/dev-labs" target="_blank">Link para ingressar na call</a></td>
@@ -1094,6 +1094,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
+<!--
+
 <div>
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Stargazers e Forkers:
@@ -1110,6 +1112,8 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 </div>
 
 -----
+
+-->
 
 <!--
 
@@ -1321,6 +1325,15 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 <img align="center" alt="Footer" width="1200px" height="20px" src="https://joaopauloaramuni.github.io/image/footer-gray.gif?raw=true"/>
 </div>
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph.svg">
+</picture>
 
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
 
