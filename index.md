@@ -49,6 +49,33 @@
 
 -----
 
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="550px" >
+<div align="justify">
+Tive o prazer de participar do episódio #155 do <a href="https://open.spotify.com/show/1aj1JxbfYePAHp1eliCKya?si=7b2cd04a46194359" target="_blank">Papinho Tech</a> ao lado do <a href="https://br.linkedin.com/in/oguscaetano" target="_blank">Gustavo Caetano</a>, um antigo amigo da época de startup edtech. Foi uma conversa super rica sobre tecnologia e educação, onde compartilhamos experiências, aprendizados e visões sobre o futuro desse espaço que continua evoluindo tão rápido. Confira! <br /><br />
+
+- <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spinning-youtube.gif?raw=true"/> [Assistir no YouTube](https://www.youtube.com/watch?v=SWa8o5RNzRA) 🎥
+- <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> [Ouvir no Spotify](https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q) 🎧
+
+</div>
+</td>
+<td>
+<div>
+<a href="https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q" target="_blank"><img src="https://joaopauloaramuni.github.io/image/papinhotech.jpg?raw=true" width="300px" height="200px"/></a>
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+-----
+
 <div>
 <img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
 </div>
@@ -92,6 +119,8 @@
 </tr> 
 </table>
 </div>
+
+-----
 
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 35 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher: Confira meu portfólio: <a href="https://aramuni.dev/">aramuni.dev</a>
