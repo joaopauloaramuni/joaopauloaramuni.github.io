@@ -4,7 +4,7 @@
 
 <table>
 <tr>
- <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas4.svg?v=2&cb=1"/></td>
+ <td align="center"><img align="center" alt="oficinas" src="https://joaopauloaramuni.github.io/image/banner_oficinas4.svg?v=9&cb=1"/></td>
 </tr>
 <tr>
  <td align="center">:computer: Oficinas semanais online de desenvolvimento de software</td>
@@ -24,9 +24,12 @@
  <td align="center">Toda sexta-feira</td>
 </tr>
 <tr>
- <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank"><img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg?v=4&cb=3"/></a></td>
- <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank"><img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot3.svg?v=8&cb=4"/></a></td>
- <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank"><img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds-4.svg?v=5&cb=4"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/dev-labs" target="_blank">
+  <img align="center" alt="devlabs" src="https://joaopauloaramuni.github.io/image/devlabs4.svg?v=8&cb=3"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/oficina-spring" target="_blank">
+  <img align="center" alt="spring" src="https://joaopauloaramuni.github.io/image/springboot3.svg?v=7&cb=4"/></a></td>
+ <td align="center"><a href="https://tinyurl.com/auloes-aeds1" target="_blank">
+  <img align="center" alt="aeds1" src="https://joaopauloaramuni.github.io/image/aeds-4.svg?v=6&cb=4"/></a></td>
 </tr>
 <tr>
  <td align="center">🔗 <a href="https://tinyurl.com/dev-labs" target="_blank">Link para ingressar na call</a></td>
@@ -58,8 +61,8 @@
 <div align="justify">
 Tive o prazer de participar do episódio #155 do <a href="https://open.spotify.com/show/1aj1JxbfYePAHp1eliCKya?si=7b2cd04a46194359" target="_blank">Papinho Tech</a> ao lado do <a href="https://br.linkedin.com/in/oguscaetano" target="_blank">Gustavo Caetano</a>, um antigo amigo da época de startup edtech. Foi uma conversa super rica sobre tecnologia e educação, onde compartilhamos experiências, aprendizados e visões sobre o futuro desse espaço que continua evoluindo tão rápido. Confira! <br /><br />
 
-- <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spinning-youtube.gif?raw=true"/> [Assistir no YouTube](https://www.youtube.com/watch?v=SWa8o5RNzRA) 🎥
-- <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> [Ouvir no Spotify](https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q) 🎧
+- <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spinning-youtube.svg?v=1&cb=1"/> [Assistir no YouTube](https://www.youtube.com/watch?v=SWa8o5RNzRA) 🎥
+- <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> [Ouvir no Spotify](https://open.spotify.com/episode/3TskGEp5hqVzoJk6RE5Dst?si=-Qtk_jqzR2WyQoT2YJ5U1Q) 🎧
 
 </div>
 </td>
@@ -288,7 +291,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 
-<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?raw=true"/>&nbsp;Empresas e contratos que atuei:
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?v=2&cb=1"/>&nbsp;Empresas e contratos que atuei:
 
 <div align="center">
 <table>
@@ -707,7 +710,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"/>
 </details>
 </div>
