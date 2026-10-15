@@ -131,7 +131,7 @@ Tive o prazer de participar do episódio #155 do <a href="https://open.spotify.c
 
 -----
 
-<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1300 estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/> <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/star.svg?raw=true"/>&nbsp;Mais de 1400 estrelas somadas nos repositórios. Obrigado pelo seu apoio! 👨‍💻
 
 -----
 
@@ -922,7 +922,7 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&style=for-the-badge"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=joaopauloaramuni&style=for-the-badge&v=3"/>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/joaopauloaramuni/joaopauloaramuni?style=for-the-badge&logo=files"/>
 <!-- <img alt="GitHub stars" src="https://img.shields.io/github/stars/joaopauloaramuni/joaopauloaramuni"/> -->
 <!-- <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaopauloaramuni/joaopauloaramuni?style=for-the-badge"/> -->
