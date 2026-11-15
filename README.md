@@ -139,7 +139,23 @@ O arquivo deve estar na **raiz do repositório** que está configurado para ser 
 1. Crie um arquivo chamado `CNAME` (sem extensão) na raiz do seu repositório.
 2. Insira seu domínio personalizado no arquivo (por exemplo, `www.exemplo.com`).
 3. Salve e envie o arquivo para o GitHub.
-4. No painel do seu provedor de domínio (como Registro.br, GoDaddy, Cloudflare etc.), adicione um registro **CNAME** apontando `www` para `seunome.github.io`.
+4. No painel do seu provedor de domínio (como Registro.br, Name.com, Namecheap, Cloudflare etc.), crie os registros DNS:
+   - **`www`** → um registro **CNAME** apontando para `seunome.github.io`;
+   - **domínio raiz** (`seusite.com`, sem `www`) → quatro registros **A** com os IPs oficiais do GitHub Pages:
+
+| Tipo  | Nome | Valor               |
+|-------|------|---------------------|
+| CNAME | www  | seunome.github.io   |
+| A     | @    | 185.199.108.153     |
+| A     | @    | 185.199.109.153     |
+| A     | @    | 185.199.110.153     |
+| A     | @    | 185.199.111.153     |
+
+> 💡 O `@` representa o domínio raiz. Em alguns provedores (como o Name.com) ele é o campo **Host em branco**; em outros (como a Namecheap) você digita `@` mesmo. Não escreva o domínio completo no campo Nome/Host: o provedor completa sozinho.
+
+> ⚠️ Pelas regras do DNS, não dá para criar um **CNAME** na raiz do domínio. Por isso a raiz usa registros **A** com os IPs do GitHub.
+
+> 📘 Os IPs estão na documentação oficial: [Gerenciando um domínio personalizado](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
 ### 🔒 HTTPS gratuito
 
@@ -162,9 +178,13 @@ Após a propagação do DNS (pode levar algumas horas), acesse seu domínio pers
   ```
 
 - Registro DNS:
-  | Tipo  | Nome | Valor                 |
-  |-------|------|------------------------|
-  | CNAME | www  | usuario.github.io     |
+  | Tipo  | Nome | Valor               |
+  |-------|------|---------------------|
+  | CNAME | www  | usuario.github.io   |
+  | A     | @    | 185.199.108.153     |
+  | A     | @    | 185.199.109.153     |
+  | A     | @    | 185.199.110.153     |
+  | A     | @    | 185.199.111.153     |
 
 ---
 
